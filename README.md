@@ -46,21 +46,21 @@ It combines **data visualization**, **geospatial mapping**, and **statistical an
 ## 📊 Visualizations
 
 ### 1️⃣ Metro Line Distribution
-![Metro Line Distribution](images/metro_line_distribution.png)
+![Metro Line Distribution](images/metro_line_distribution.jpg)
 
 ### 2️⃣ Interactive Station Map
-![Metro Station Map](images/metro_station_map.png)
+![Metro Station Map](images/metro_station_map.jpg)
 
 ### 3️⃣ Passenger Load Trends
-![Passenger Load](images/passengers_load.png)
+![Passenger Load](images/passengers_load.jpg)
 
 ### 4️⃣ Routes Per Stop
-![Routes per Stop](images/routes_per_stop.png)
+![Routes per Stop](images/routes_per_stop.jpg)
 
 ### 5️⃣ Average Train Intervals
-![Train Intervals](images/train_intervals.png)
+![Train Intervals](images/train_intervals.jpg)
 
 ### 6️⃣ Trip Adjustment Simulation
-![Trip Adjustment](images/trip_adjustments.png)
+![Trip Adjustment](images/trip_adjustments.jpg)
 
 *(All images are generated from the Jupyter Notebook and saved in `/images/`.)*

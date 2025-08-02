@@ -13,7 +13,7 @@ It combines **data visualization**, **geospatial mapping**, and **statistical an
 
 ## 📂 Dataset Sources
 
-## 📂 Dataset Files (from `/datasets` folder in this repo)
+1. **Delhi Metro GTFS Data (DMRC)**
 
 - [agency.txt](datasets/agency.txt) → Metro agency details  
 - [calendar.txt](datasets/calendar.txt) → Service schedule  
@@ -25,7 +25,7 @@ It combines **data visualization**, **geospatial mapping**, and **statistical an
  
 
 2. **Delhi Metro Station Data**  
-   🔗 (datasets/Delhi Metro.csv) 
+   🔗 [stations.csv](datasets/Delhi Metro.csv) 
 
 3. **Passenger Load Data (2022)**  
    *Provided as an Excel file in `/data/`* — contains passengers per km for each metro line.

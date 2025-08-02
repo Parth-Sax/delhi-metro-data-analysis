@@ -13,16 +13,16 @@ It combines **data visualization**, **geospatial mapping**, and **statistical an
 
 ## 📂 Dataset Sources
 
-1. **Delhi Metro GTFS Data (DMRC)** – Official Open Data Feed  
-   🔗 [https://data.gov.in/catalog/general-transit-feed-specification-gtfs-delhi-metro](https://data.gov.in/catalog/general-transit-feed-specification-gtfs-delhi-metro)  
-   Included Files:  
-   - `agency.txt` → Metro agency details  
-   - `calendar.txt` → Service schedule  
-   - `routes.txt` → Metro line details  
-   - `shapes.txt` → GPS coordinates of route paths  
-   - `stop_times.txt` → Timings of trains at stations  
-   - `stops.txt` → Station names & coordinates  
-   - `trips.txt` → Individual scheduled train journeys  
+## 📂 Dataset Files (from `/datasets` folder in this repo)
+
+- [agency.txt](datasets/agency.txt) → Metro agency details  
+- [calendar.txt](datasets/calendar.txt) → Service schedule  
+- [routes.txt](datasets/routes.txt) → Metro line details  
+- [shapes.txt](datasets/shapes.txt) → GPS coordinates of route paths  
+- [stop_times.txt](datasets/stop_times.txt) → Timings of trains at stations  
+- [stops.txt](datasets/stops.txt) → Station names & coordinates  
+- [trips.txt](datasets/trips.txt) → Individual scheduled train journeys  
+ 
 
 2. **Delhi Metro Station Data**  
    🔗 [https://data.gov.in/resources/delhi-metro-stations](https://data.gov.in/resources/delhi-metro-stations)  

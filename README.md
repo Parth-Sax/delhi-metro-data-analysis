@@ -25,7 +25,7 @@ It combines **data visualization**, **geospatial mapping**, and **statistical an
  
 
 2. **Delhi Metro Station Data**  
-   🔗 [https://data.gov.in/resources/delhi-metro-stations](https://data.gov.in/resources/delhi-metro-stations)  
+   🔗 (datasets/Delhi Metro 
 
 3. **Passenger Load Data (2022)**  
    *Provided as an Excel file in `/data/`* — contains passengers per km for each metro line.

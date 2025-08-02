@@ -28,7 +28,7 @@ It combines **data visualization**, **geospatial mapping**, and **statistical an
    🔗 [stations.csv](datasets/Delhi_metro.csv) 
 
 3. **Passenger Load Data (2022)**  
-   (datasets/delhimetropassengersloadperkm) — Contains passengers per km for each metro line.
+   (datasets/delhimetropassengersloadperkm.xlsx) — Contains passengers per km for each metro line.
 
 ---
 
